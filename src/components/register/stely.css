@@ -1,0 +1,12 @@
+body{
+    font-family: Tahoma, Arial;
+   
+    
+}
+*{
+    box-sizing: border-box;
+   
+}
+nav{
+    background-color: rgb(116, 22, 22);
+}
